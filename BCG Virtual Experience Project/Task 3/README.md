@@ -27,8 +27,12 @@ Run the cells in the notebook provided (named feature_engineering.ipynb) to re-c
 
 Now that you have a dataset of cleaned and engineered features, it is time to build a predictive model to see how well these features are able to predict a customer churning. It is your task to train a Random Forest classifier and to evaluate the results in an appropriate manner. We would also like you to document the advantages and disadvantages of using a Random Forest for this use case. It is up to you how to fulfill this task, but you may want to use the below points to guide your work:
 
-> Ensure you’re able to explain the performance of your model, where did the model underperform?
-> Why did you choose the evaluation metrics that you used? Please elaborate on your choices.
-> Document the advantages and disadvantages of using the Random Forest for this use case.
-> Do you think that the model performance is satisfactory? Give justification for your answer.
-> (Bonus) - Relate the model performance to the client's financial performance with the introduction of the discount proposition. How much money could a client save with the use of the model? What assumptions did you make to come to this conclusion?
+-> Ensure you’re able to explain the performance of your model, where did the model underperform?
+
+-> Why did you choose the evaluation metrics that you used? Please elaborate on your choices.
+
+-> Document the advantages and disadvantages of using the Random Forest for this use case.
+
+-> Do you think that the model performance is satisfactory? Give justification for your answer.
+
+-> (Bonus) - Relate the model performance to the client's financial performance with the introduction of the discount proposition. How much money could a client save with the use of the model? What assumptions did you make to come to this conclusion?
