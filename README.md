@@ -2,18 +2,11 @@
 
 ## About Me
 
-I'm Sangeeth G Krishnan, a graduate in Electronics with a passion for data science. I have completed a comprehensive Data Science course and I'm excited to showcase my skills and projects in this portfolio.
+I'm Sangeeth G Krishnan, Electronics graduate with a strong foundation in data science. Completed a comprehensive Data Science course and gained practical experience as a Data Analyst Intern at Smollan India Pvt Ltd. Passionate about leveraging data to drive insights and solutions.
 
 ## Portfolio Highlights
 
 In this repository, you will find a collection of my Data Science projects, demonstrating my expertise in various areas of the field. Each project comes with a detailed readme file explaining the problem statement, methodology, and results achieved. Feel free to explore and gain insights into my work.
-
-## Projects
-
-1. Project 1: NIDDK (National Institute of Diabetes and Digestive and Kidney Diseases) Healthcare
-   - Description: In this project, I have built a classification model using the KNN algorithm.
-   - Technologies: Python, scikit-learn, Pandas, Matplotlib
-   - Link: [NIDDK HEALTH CARE](https://github.com/sangeethgk19/Sangeeth/tree/main/Health_care_Project)
 
 
 
